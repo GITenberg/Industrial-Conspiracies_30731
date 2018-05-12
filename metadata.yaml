@@ -1,0 +1,35 @@
+_repo: Industrial-Conspiracies_30731
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30731-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Darrow, Clarence
+    alias: Darrow, Clarence Seward
+    birthdate: 1857
+    deathdate: 1938
+    gutenberg_agent_id: '4184'
+    url: http://www.gutenberg.org/2009/agents/4184
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Darrow
+description: Before he gained notoriety as the lawyer who defended teenage murderers
+  Leopold and Loeb, lawyer Clarence Darrow was an important figure in the labor movement
+  and progressive causes. In his talk Industrial Conspiracies, Darrow provides a wide-ranging
+  look at his own political philosophy, including his somewhat radical insistence
+  that the U.S. Constitution -- and by extension, the country's system of democracy
+  -- should be abolished and rebuilt from scratch.
+gutenberg_issued: '2009-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30731'
+  lccn: '12024931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Working class -- United States'
+- !lcsh 'Justice, Administration of -- United States'
+- !lcc 'HD'
+title: Industrial Conspiracies
+url: http://www.gutenberg.org/ebooks/30731
